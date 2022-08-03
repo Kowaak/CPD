@@ -1,9 +1,9 @@
 {
-"name" : "tghjyukbhjmbg",
-"description" : "Ye",
-"author" : "ME and Maple Maniac's Perk Deck Maker.",
+"name" : "CPD",
+"description" : "A custom perk i made",
+"author" : "Kowaak",
 "image" : "logo.png"
-"version" : "1.0",
+"version" : "1",
 "blt_version" : 2
 "hooks" : [
 { "hook_id" : "lib/tweak_data/skilltreetweakdata", "script_path" : "skilltree.lua" },
