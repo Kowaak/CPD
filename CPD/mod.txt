@@ -1,6 +1,6 @@
 {
-"name" : "CPD",
-"description" : "A custom perk i made",
+"name" : "Kowaak's custom perk deck",
+"description" : "A custom perk deck i made.",
 "author" : "Kowaak",
 "image" : "logo.png"
 "version" : "1",
