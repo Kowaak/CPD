@@ -71,7 +71,7 @@ name_id = "cock01'perk7n",
 desc_id = "cock01'perk7d"},
 ps8,{
 upgrades = {
-"player_armor_increase_3", "player_damage_to_armor_1", "team_xp_multiplier"
+"player_armor_increase_3", "player_damage_to_armor_1", "team_xp_multiplier", "player_armor_regen_timer_multiplier_passive", "temporary_armor_break_invulnerable_1"
 },
 cost = pc9,
 icon_xy = {1, 1},
