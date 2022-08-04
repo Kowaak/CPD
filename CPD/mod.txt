@@ -1,9 +1,9 @@
 {
-"name" : "Kowaak's custom perk deck",
+"name" : "Kowaak's custom perk deck.",
 "description" : "A custom perk deck i made.",
 "author" : "Kowaak",
 "image" : "logo.png"
-"version" : "1",
+"version" : "1.0",
 "blt_version" : 2
 "hooks" : [
 { "hook_id" : "lib/tweak_data/skilltreetweakdata", "script_path" : "skilltree.lua" },
