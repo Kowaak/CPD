@@ -1,6 +1,6 @@
 {
 "name" : "Kowaak's custom perk deck.",
-"description" : "A custom perk deck i made.",
+"description" : "A custom perk deck i made. Comes with a XP boost on the 9th perk",
 "author" : "Kowaak",
 "image" : "logo.png"
 "version" : "1.0",

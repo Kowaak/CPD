@@ -19,6 +19,6 @@ or string_id == "cock01'perk5d" and "Perk 5 Description"
 or string_id == "cock01'perk7n" and "Perk 7"
 or string_id == "cock01'perk7d" and "Perk 7 Description"
 or string_id == "cock01'perk9n" and "True Kowaak"
-or string_id == "cock01'perk9d" and "Increases armor by a huge amount with a bonus that dealing damage restores ##30## armor. \n\nIncreases armor regenereration by ##10%## and gives you a ##2## second invulnerability after your armor breaks. \n\nMultiplies exp by ##3##."
+or string_id == "cock01'perk9d" and "Increases armor by a huge amount with a bonus that dealing damage restores ##30## armor. \n\nIncreases armor regenereration by ##10%## and gives you a ##2## second invulnerability after your armor breaks. \n\nMultiplies XP by ##3##."
 or text_original(self, string_id, ...)
 end
