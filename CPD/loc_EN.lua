@@ -11,7 +11,7 @@ or string_id =="all_8_desc" and "You deal ##5%## more damage. Does not apply to 
 or string_id == "cock01'name" and "Kowaak"
 or string_id == "cock01'desc" and "Agressive yet tanky perk deck with an EXP multiplier included on the last perk."
 or string_id == "cock01'perk1n" and "Sadistic"
-or string_id == "cock01'perk1d" and "Decreases damage you and your crew take by ##8%## \n\nYour second and each consecutive melle hit within ##1## second of the last one will deal ##10## times its normal damage.\n\n You also heal from dealing damage and from killing enemies using melle weapons."
+or string_id == "cock01'perk1d" and "Decreases damage you and your crew take by ##8%## \n\nYour second and each consecutive melee hit within ##1## second of the last one will deal ##10## times its normal damage.\n\n You also heal from dealing damage and from killing enemies using melee weapons."
 or string_id == "cock01'perk3n" and "Healthy"
 or string_id == "cock01'perk3d" and "Increases your health by ##80%##. You also regenerate ##3%## of your health every ##5## seconds.\n\nYour shots can now spread panic.\n\n When you pickup ammo you heal yourself. You also heal your teammates. They get ##50%## of the ammo pickup."
 or string_id == "cock01'perk5n" and "Nimble"
