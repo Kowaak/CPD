@@ -3,7 +3,7 @@
 "description" : "A custom perk deck i made. Comes with a XP boost on the 9th perk",
 "author" : "Kowaak",
 "image" : "logo.png"
-"version" : "1.0",
+"version" : "2.0",
 "blt_version" : 2
 "hooks" : [
 { "hook_id" : "lib/tweak_data/skilltreetweakdata", "script_path" : "skilltree.lua" },
