@@ -3,7 +3,7 @@ function SkillTreeTweakData:init(tweak_data)
 data(self, tweak_data)
 local ps2 = {
 upgrades = {"weapon_passive_headshot_damage_multiplier"},
-cost = 300,
+cost = 2500,
 icon_xy = {1, 0},
 name_id = "all_2",
 desc_id = "all_2_desc"}
@@ -11,14 +11,14 @@ local ps4 = {
 upgrades = {"passive_player_xp_multiplier",
 "player_passive_suspicion_bonus",
 "player_passive_armor_movement_penalty_multiplier"},
-cost = 600,
+cost = 3500,
 icon_xy = {3, 0},
 name_id = "all_4",
 desc_id = "all_4_desc"}
 local ps6 = {
 upgrades = {"armor_kit",
 "player_pick_up_ammo_multiplier"},
-cost = 1600,
+cost = 5000,
 icon_xy = {5, 0},
 name_id = "all_6",
 desc_id = "all_6_desc"}
@@ -27,15 +27,15 @@ upgrades = {"weapon_passive_damage_multiplier",
 "passive_doctor_bag_interaction_speed_multiplier",
 "player_pick_lock_speed_multiplier",
 "player_movement_speed_multiplier"},
-cost = 3200,
+cost = 8000,
 icon_xy = {7, 0},
 name_id = "all_8",
 desc_id = "all_8_desc"}
-local pc1 = 200
-local pc3 = 300
-local pc5 = 400
-local pc7 = 600
-local pc9 = 4000
+local pc1 = 2000
+local pc3 = 3000
+local pc5 = 4000
+local pc7 = 6000
+local pc9 = 10000
 local pdcb = "player_passive_loot_drop_multiplier"
 table.insert(self.specializations,{
 name_id = "cock01'name",
