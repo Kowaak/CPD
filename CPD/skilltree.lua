@@ -57,7 +57,7 @@ name_id = "cock01'perk3n",
 desc_id = "cock01'perk3d"},
 ps4,{
 upgrades = {
-"player_passive_dodge_chance_3","player_movement_speed_damage_health_ratio_threshold_multiplier"
+"player_passive_dodge_chance_1","player_movement_speed_damage_health_ratio_threshold_multiplier","player_armor_regen_damage_health_ratio_threshold_multiplier",
 },
 cost = pc5,
 icon_xy = {1, 1},
@@ -65,7 +65,7 @@ name_id = "cock01'perk5n",
 desc_id = "cock01'perk5d"},
 ps6,{
 upgrades = {
-"player_armor_increase_1"
+"player_armor_increase_1","player_perk_armor_regen_timer_multiplier_5"
 },
 cost = pc7,
 icon_xy = {1, 1},
@@ -73,7 +73,7 @@ name_id = "cock01'perk7n",
 desc_id = "cock01'perk7d"},
 ps8,{
 upgrades = {
-"team_xp_multiplier","player_damage_control_passive","temporary_damage_control","damage_control","player_damage_control_cooldown_drain_1","player_armor_to_health_conversion","player_damage_control_auto_shrug","player_damage_control_cooldown_drain_2","player_damage_control_healing"
+"team_xp_multiplier","player_damage_to_armor_1","player_kill_change_regenerate_speed","player_dodge_replenish_armor"
 },
 cost = pc9,
 icon_xy = {1, 1},
