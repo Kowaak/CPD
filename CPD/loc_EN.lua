@@ -15,10 +15,10 @@ or string_id == "cock01'perk1d" and "Decreases damage you and your crew take by 
 or string_id == "cock01'perk3n" and "Healthy"
 or string_id == "cock01'perk3d" and "Increases your health by ##80%##. You also regenerate ##3%## of your health every ##5## seconds.\n\nYour shots can now spread panic.\n\n When you pickup ammo you heal yourself. You also heal your teammates. They get ##50%## of the ammo pickup."
 or string_id == "cock01'perk5n" and "Nimble"
-or string_id == "cock01'perk5d" and "Increases your dodge chance by ##45%##\n\n The lower your health, the more movement speed you gain. When your health is below ##25%##, you will gain up to ##20%## movement speed."
+or string_id == "cock01'perk5d" and "Increases your dodge chance by ##15%##\n\n The lower your health, the more movement speed you gain. When your health is below ##25%##, you will gain up to ##20%## movement speed."
 or string_id == "cock01'perk7n" and "Monke"
 or string_id == "cock01'perk7d" and "Increases armor by a huge amount"
 or string_id == "cock01'perk9n" and "True Kowaak"
-or string_id == "cock01'perk9d" and "Gives you a effect of a maxed out Stoic\n\nMultiplies XP gained."
+or string_id == "cock01'perk9d" and "When you deal damage you replenish some of your armor. The same happens when you dodge.\n\nMultiplies XP gained."
 or text_original(self, string_id, ...)
 end
