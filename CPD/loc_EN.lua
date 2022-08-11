@@ -17,7 +17,7 @@ or string_id == "cock01'perk3d" and "Increases your health by ##80%##. You also 
 or string_id == "cock01'perk5n" and "Nimble"
 or string_id == "cock01'perk5d" and "Increases your dodge chance by ##15%##\n\n The lower your health, the more movement speed you gain. When your health is below ##25%##, you will gain up to ##20%## movement speed."
 or string_id == "cock01'perk7n" and "Monke"
-or string_id == "cock01'perk7d" and "Increases armor by a huge amount"
+or string_id == "cock01'perk7d" and "Increases armor by a huge amount and speeds up its recovery rate."
 or string_id == "cock01'perk9n" and "True Kowaak"
 or string_id == "cock01'perk9d" and "When you deal damage you replenish some of your armor. The same happens when you dodge.\n\nMultiplies XP gained."
 or text_original(self, string_id, ...)
