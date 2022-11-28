@@ -1,6 +1,6 @@
 {
 "name" : "True Kowaak",
-"description" : "Mod with a simple and powerful perk deck with a XP boost on the lasp perk.",
+"description" : "Mod with a simple and powerful perk deck with a XP boost on the last perk.",
 "author" : "Kowaak",
 "image" : "logo.png"
 "version" : "2.0",
