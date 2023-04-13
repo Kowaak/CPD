@@ -39,7 +39,7 @@ local pc9 = 10000
 local pdcb = "player_passive_loot_drop_multiplier"
 table.insert(self.specializations,{
 name_id = "perk01'name",
-desc_id = "prek01'desc",{
+desc_id = "perk01'desc",{
 upgrades = {
 "player_passive_damage_reduction_1", "team_damage_reduction_1","player_melee_kill_life_leech", "player_melee_life_leech", "melee_stacking_hit_damage_multiplier_1", "melee_stacking_hit_expire_t"
 },
